@@ -1,4 +1,4 @@
-#Hi, I'm Geoff
+Hi, I'm Geoff
 I'm a cybersecurity student at Boise State working toward a career in governance, risk, and compliance (GRC). I'm especially focused on two areas where the field is heading, AI governance and compliance automation, which means turning written security controls into automated checks using tools like OPA and Rego.
 
 I'm open to internships and entry-level roles in GRC, compliance, and IT audit.
@@ -17,6 +17,6 @@ Start here
 My main work lives in GRC-Portfolio.
 Connect
 LinkedIn
-(https://www.linkedin.com/in/petriegeoffrey/)
+https://www.linkedin.com/in/petriegeoffrey/
 
 
