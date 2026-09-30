@@ -21,7 +21,7 @@ I'm open to internships and entry-level roles in GRC, compliance, and IT audit.
 
 ## Start here
 
-My main work lives in **[GRC-Portfolio](https://github.com/GRSPstyles/GRC-Portfolio)**.
+My main work lives in **[GRC-Portfolio](https://github.com/GRSPonGRC/GRC-Portfolio)**.
 
 ## Connect
 
